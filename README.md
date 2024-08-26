@@ -97,19 +97,13 @@ contract DeganToken is ERC20 {
 Clone the project
 
 ```bash
-  git clone https://github.com/Ayush-dvplr/degan-token.git
+  git clone https://github.com/Abhishekanand32/Degan-token-frontend.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd degan-token
-```
-
-Go to the frontend directory from another terminal
-
-```bash
-  cd frontend
+  cd Degan-token-frontend
 ```
 
 Install dependencies
