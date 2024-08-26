@@ -120,8 +120,8 @@ Start frontend from the terminalin frontend directory
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1722454124/degan-token-home1.png)
-![App Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1722454124/degan-token-home2.png)
+![App Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1724679532/Screenshot_2024-08-26_190229_pmc6z6.png)
+![App Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1724679532/Screenshot_2024-08-26_190236_ox8yxk.png)
 
 ## Lessons Learned
 
